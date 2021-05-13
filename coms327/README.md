@@ -1,3 +1,5 @@
+# Project desciption files are uploaded above.
+
 # PART1
 This project is the implementation of the board game checkers. For the first part of the project
 located in the main.c, I implemented the reading from an input file to get the game configurations. I checked to see if
