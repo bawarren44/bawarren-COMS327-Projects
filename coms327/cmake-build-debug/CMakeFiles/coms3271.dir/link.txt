@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/coms3271.dir/rank.c.o  -o coms3271.exe -Wl,--out-implib,libcoms3271.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

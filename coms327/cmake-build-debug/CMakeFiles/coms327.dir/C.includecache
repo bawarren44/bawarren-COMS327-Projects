@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/sup3r/coms327/coms327/change.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+
+/cygdrive/c/Users/sup3r/coms327/coms327/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+change.h
+/cygdrive/c/Users/sup3r/coms327/coms327/change.h
+

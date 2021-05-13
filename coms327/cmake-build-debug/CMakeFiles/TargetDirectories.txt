@@ -1,0 +1,6 @@
+/cygdrive/c/Users/sup3r/coms327/coms327/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/sup3r/coms327/coms327/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/sup3r/coms327/coms327/cmake-build-debug/CMakeFiles/coms32712.dir
+/cygdrive/c/Users/sup3r/coms327/coms327/cmake-build-debug/CMakeFiles/coms327.dir
+/cygdrive/c/Users/sup3r/coms327/coms327/cmake-build-debug/CMakeFiles/coms3271.dir
+/cygdrive/c/Users/sup3r/coms327/coms327/cmake-build-debug/CMakeFiles/coms3274.dir

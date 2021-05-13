@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/coms32712.dir/termboxx.c.o  -o coms32712.exe -Wl,--out-implib,libcoms32712.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
